@@ -6,7 +6,7 @@ const Home = () => {
       <div className="h-screen flex items-center justify-center">
         <div className="text-center md:w-1/2 text-black">
           <h1 className="text-4xl md:text-5xl font-bold tracking-wide mb-8 font-serif">
-            Hello, I'm CHANDRU
+            Hello, I'm CHANDRU KJ
           </h1>
           <p className="text-lg mb-8 font-sans font-light">
             Full Stack Developer and Web Enthusiast
